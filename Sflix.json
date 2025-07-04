@@ -1,5 +1,5 @@
 {
-  "sourceName": "SFlix Custom",
+  "sourceName": "SFlix",
   "iconUrl": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/sflix/icon.png",
   "author": {
     "name": "Nizar",
@@ -10,9 +10,9 @@
   "language": "English",
   "streamType": "HLS",
   "quality": "1080p",
-  "baseUrl": "https://sflix.to/",
+  "baseUrl": "https://sflix.to",
   "searchBaseUrl": "https://sflix.to/search/%s",
-  "scriptUrl": "https://raw.githubusercontent.com/g5gq/Sflix/refs/heads/main/Sflix.js",
+  "scriptUrl": "https://raw.githubusercontent.com/g5gq/sflix-module/main/main.js",
   "type": "anime/shows/movies",
   "asyncJS": true,
   "softsub": false
