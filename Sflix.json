@@ -10,7 +10,7 @@
   "language": "English",
   "streamType": "HLS",
   "quality": "1080p",
-  "baseUrl": "https://streameeeeee.site/",
+  "baseUrl": "https://sflix.to/",
   "searchBaseUrl": "https://sflix.to/search/%s",
   "scriptUrl": "https://raw.githubusercontent.com/g5gq/Sflix/refs/heads/main/Sflix.js",
   "type": "anime/shows/movies",
